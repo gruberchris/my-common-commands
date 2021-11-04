@@ -6,3 +6,4 @@ Common shell and CLI commands
 - [NPM Commands](npm.md)
 - [Linux Commands](linux.md)
 - [Docker Commands](docker.md)
+- [Helm Commands](helm.md)
