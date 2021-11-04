@@ -5,3 +5,4 @@ Common shell and CLI commands
 - [Dotnet Commands](dotnet.md)
 - [NPM Commands](npm.md)
 - [Linux Commands](linux.md)
+- [Docker Commands](docker.md)
